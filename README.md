@@ -1,6 +1,6 @@
 # hugz_club_22246
 
-This is a repository for a web application developed with Django, built with [Crowdbotics](https://crowdbotics.com)
+This is a repository for a web application developed with Django.
 
 ### Features
 
